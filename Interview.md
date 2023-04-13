@@ -1,4 +1,4 @@
-`1. Tell us about yourself`
+* `1. Tell us about yourself`
 ```sh
 1. My name is srikanth velma, I am a mechanical B.tech gradute (2008), After my graduation i worked as asst.prof in a engineering college(2009-2011 aug).
 
@@ -7,7 +7,7 @@
 3.After that currently working in optimum solutions as devops engineer (2019 may to 2023 may)
 
 ```
-`2. What are your day to day activities as DevOps Engineer`
+* `2. What are your day to day activities as DevOps Engineer`
 ```sh
 As a devops engineer my daily activities are
 
@@ -22,12 +22,12 @@ As a devops engineer my daily activities are
 
 6. i will Docs part 
 ```
-`3. Most challenging Task`
+* `3. Most challenging Task`
 ```sh
 1. i have recreated terraform state file 
 2. i have imported and used already created infra into terraform state
 ```
-`4. Branching Stratagy`
+* `4. Branching Stratagy`
 ```sh
 we will use GIT FLOW -Branching Stratagy
 which consists of 
@@ -38,9 +38,9 @@ which consists of
 5. hot fix 
 6. pull request mechanisam
 ```
-`5. what you do when build fails`
+* `5. what you do when build fails`
 
-`6. what is pull request`
+* `6. what is pull request`
 ```sh
 pull request is mechanisam for devlopers to notify the changes that he done in the feature branch, after that it triggers the day build, if it id sucess then ,it will show the result in dev branch so that the dev lead or devops lead can check that and merge the feature into dev branch 
 ```
