@@ -31,7 +31,7 @@ Git Preparation notes
       * AWS Code Commit
       * Bit Bucket
 ### Git Work Flow
-![preview](./images/git3.png)
+![preview](images/git3.png)
 * Working Dir
 * Staging Area
 * Local Repo
