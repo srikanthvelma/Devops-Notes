@@ -7,13 +7,13 @@ Git Preparation notes
 ### Types of VCS
   * Local Version Control Systems
   * Centralized Version Control Systems
-  ![preview](images/git1.png)
+  ![preview](Images/git1.png)
     * here main code will be stored in version control server only.
     * only respective code can be stored with local dev systems
     * if server breaks down, full code cannot be accessed 
     * can be accessed from same network and cannot be accessed over http
   * Distributed Version Control Systems
-  ![preview](images/git2.png)
+  ![preview](Images/git2.png)
     * here we will have local repo and remote repo
     * and in this every local repo will have similar code as remote repo
     * so if we loss remote repo, we will have code in every local repo
@@ -31,7 +31,7 @@ Git Preparation notes
       * AWS Code Commit
       * Bit Bucket
 ### Git Work Flow
-![preview](images/git3.png)
+![preview](Images/git3.png)
 * Working Dir
 * Staging Area
 * Local Repo
